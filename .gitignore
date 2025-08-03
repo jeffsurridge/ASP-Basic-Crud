@@ -1,0 +1,6 @@
+# Ignore Visual Studio specific folders/files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
